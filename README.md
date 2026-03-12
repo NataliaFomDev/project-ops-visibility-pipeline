@@ -40,6 +40,8 @@ Operational System
 → PostgreSQL (raw + current + event log + reporting views)  
 → BI / Dashboards / Notifications
 
+![High-Level Architecture](architecture.png)
+
 ## My role
 
 I designed the data flow, ingestion logic, and reporting structure, including:
