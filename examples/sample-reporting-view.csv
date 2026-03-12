@@ -1,0 +1,4 @@
+project_id,project_name,total_items,overdue_items,blocked_items,last_sync_at
+101,Project A,42,5,2,2026-03-10T10:00:00Z
+102,Project B,18,1,0,2026-03-10T10:00:00Z
+103,Project C,27,3,1,2026-03-10T10:00:00Z
